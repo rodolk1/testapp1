@@ -1,9 +1,10 @@
 {
-  "name": "app",
+  "name": "Test Apss",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+     "test": "grunt test --verbose"
   },
   "dependencies": {
     "express": "3.4.8",
